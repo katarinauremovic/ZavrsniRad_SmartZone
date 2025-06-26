@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322519955595",
+    "project_id": "smartzone-4a210",
+    "storage_bucket": "smartzone-4a210.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322519955595:android:c7c72f1856aeece3c93c8e",
+        "android_client_info": {
+          "package_name": "com.example.smartzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBou3kxqL2_m6OS-QMpuxArb1TiA84spNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
